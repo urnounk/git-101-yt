@@ -1,0 +1,15 @@
+
+.custom-nav {
+    background-color: #f8f9fa; 
+    border-bottom: 2px solid #ddd; 
+  }
+  
+  .custom-nav .nav-link {
+    color: #000000; 
+  }
+  
+  .custom-nav .nav-link.active {
+    color: #000000; 
+    font-weight: bold; 
+  }
+  
